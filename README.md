@@ -31,6 +31,12 @@ A partir da análise dos dados, foi possível identificar alguns padrões intere
 - Alguns indicadores que pareciam bons à primeira vista se mostraram menos relevantes quando analisados em conjunto com outras métricas.
 - A importância de olhar os dados de forma cruzada (e não isolada), já que muitos comportamentos só aparecem quando combinamos variáveis.
 
+## Dashboard de Vendas
+<img width="1423" height="785" alt="Dashboard-Vendas" src="https://github.com/user-attachments/assets/10633fa2-1d6a-4757-9875-cf7c808d361e" />
+
+## Dashboard de Produtos
+<img width="1417" height="780" alt="Dashboard - Produtos" src="https://github.com/user-attachments/assets/439b00d5-f65f-4a25-acec-2f0d6364f1c7" />
+
 ## Conclusão
 
 Esse projeto foi um passo importante para mim, porque consegui sair um pouco da teoria e realmente entender como as coisas funcionam na prática dentro do Power BI. Durante o projeto comecei a entender que cada gráfico tem um propósito específico. Passei a pensar melhor no tipo de análise que eu queria fazer antes de escolher o visual. Além disso, ficou claro para mim a importância de organizar bem os dados e, principalmente, saber como apresentar as informações de forma que façam sentido. 
